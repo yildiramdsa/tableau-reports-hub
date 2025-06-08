@@ -1,4 +1,4 @@
-# tableau-reports-hub
+# Tableau Reports Hub
 
 **Tech Stack:** ![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau)
 
